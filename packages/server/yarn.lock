@@ -861,9 +861,9 @@ babel-messages@^6.23.0:
   dependencies:
     babel-runtime "^6.22.0"
 
-babel-plugin-add-module-exports@0.3.2:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/babel-plugin-add-module-exports/-/babel-plugin-add-module-exports-0.3.2.tgz#1c1befee12f4b5f62fe641716caff01ec4d2e3ec"
+babel-plugin-add-module-exports@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/babel-plugin-add-module-exports/-/babel-plugin-add-module-exports-1.0.0.tgz#72b5424d941a336c6a35357f373d8b8366263031"
   optionalDependencies:
     chokidar "^2.0.4"
 
